@@ -41,3 +41,17 @@ h1 {
 .square.winner {
     background-color: #e6f7ff;
 }
+
+.restart-button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border: none;
+    background-color: #ccc;
+    cursor: pointer;
+}
+
+.restart-button:hover {
+    background-color: #999;
+    color: #fff;
+}
